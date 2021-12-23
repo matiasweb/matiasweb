@@ -1,7 +1,9 @@
 ## Hey! 👋
 I'm Matías, a 25 years old web developer from Chile.
 
-- 🧭 Founder at [@matiaswebs](https://matiaswebs.com)
+- 🧭 Founder at [@matiaswebs](https://github.com/matiaswebs)
+- 🎶 When I code I like to listen to Lo-Fi, Chill beats and sometimes Phonk and Vaporwave.
+- 🎷 I learned music and saxophone at the Francisco Casanovas Conservatory in Alicante, Spain.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, PHP
