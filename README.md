@@ -10,5 +10,5 @@ I'm Matías, a 25 years old web developer from Chile.
 - 💽 MySQL, SQL, Mongo & Redis
 
 ## Contact
-- [matiaswebs.com](https://matiaswebs.com/)
-- [contacto@matiaswebs.com](mailto:contacto@matiaswebs.com) via email
+- 🌐 [matiaswebs.com](https://matiaswebs.com/)
+- ✉️ [contacto@matiaswebs.com](mailto:contact@matiaswebs.com)
