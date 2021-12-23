@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Matías, a 25 years old web developer from Chile.
+I'm Matías, a 25 years old web developer from Viña del Mar, Chile.
 
 - 🧭 Founder at [@matiaswebs](https://github.com/matiaswebs)
 - 🎶 When I code I like to listen to [Synthwave](https://www.youtube.com/watch?v=wOMwO5T3yT4&list=PLWhyUtkg1zRj-yH_Z_VDNqldAwyOcsL0h), [Lo-Fi hip hop](https://www.youtube.com/watch?v=ZfkCYAI6MRU&list=PLWhyUtkg1zRj-yH_Z_VDNqldAwyOcsL0h) and sometimes [Phonk](https://soundcloud.com/rogerbeats/sicarios) and [Vaporwave](https://www.youtube.com/watch?v=_4gl-FX2RvI&list=PLWhyUtkg1zRjzCzsNU5DsQhjBur51-rQe).
