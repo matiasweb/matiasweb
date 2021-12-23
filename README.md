@@ -3,8 +3,6 @@ I'm Matías, a 25 years old web developer from Chile.
 
 - 🧭 Founder at [@matiaswebs](https://matiaswebs.com)
 
-- 👥 Team member at [@nestdotland](https://github.com/nestdotland)
-
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, PHP
 - ⚙️ [@WordPress] Plugin creator
