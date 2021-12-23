@@ -5,7 +5,7 @@ I'm Matías, a 25 years old web developer from Chile.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, PHP
-- ⚙️ [WordPress](https://github.com/WordPress) & [WooCommerce](https://github.com/WooCommerce) Plugin creator
+- ⚙️ [WordPress](https://github.com/WordPress) & [WooCommerce](https://github.com/WooCommerce) plugin creator
 - 👁️ SASS & CSS
 - 💽 MySQL, SQL, Mongo & Redis
 
